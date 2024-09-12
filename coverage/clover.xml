@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1726171268759" clover="3.2.0">
+  <project timestamp="1726171268759" name="All files">
+    <metrics statements="39" coveredstatements="39" conditionals="8" coveredconditionals="8" methods="17" coveredmethods="17" elements="64" coveredelements="64" complexity="0" loc="39" ncloc="39" packages="1" files="2" classes="2"/>
+    <file name="extended_formatting.js" path="C:\Users\Augusto Hasenbalg\Desktop\DatenSchule2\CsBe_450\Arbeitsblätter\Aufgaben\Unit-Testing\src\extended_formatting.js">
+      <metrics statements="21" coveredstatements="21" conditionals="4" coveredconditionals="4" methods="9" coveredmethods="9"/>
+      <line num="3" count="20" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="11" count="3" type="stmt"/>
+      <line num="12" count="21" type="cond" truecount="2" falsecount="0"/>
+      <line num="13" count="21" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="22" count="12" type="cond" truecount="2" falsecount="0"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="34" count="2" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="41" count="1" type="stmt"/>
+      <line num="46" count="11" type="stmt"/>
+      <line num="49" count="1" type="stmt"/>
+      <line num="50" count="1" type="stmt"/>
+      <line num="52" count="1" type="stmt"/>
+      <line num="55" count="1" type="stmt"/>
+    </file>
+    <file name="formatting.js" path="C:\Users\Augusto Hasenbalg\Desktop\DatenSchule2\CsBe_450\Arbeitsblätter\Aufgaben\Unit-Testing\src\formatting.js">
+      <metrics statements="18" coveredstatements="18" conditionals="4" coveredconditionals="4" methods="8" coveredmethods="8"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="11" count="3" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="21" count="6" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="29" count="2" type="stmt"/>
+      <line num="30" count="12" type="stmt"/>
+      <line num="31" count="12" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="38" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="41" count="4" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+      <line num="45" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
